@@ -1,2 +1,2 @@
 # MQBS
-MessageQueueBufferStream
+MemoryQueueBufferStream
