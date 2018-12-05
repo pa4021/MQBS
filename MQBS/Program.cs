@@ -50,6 +50,8 @@ namespace MQBS
                 throw new Exception("length are not equal.");
             Buffer.BlockCopy(byteArray, 0, buffer, 0, count);
 
+            throw new Exception("salam");
+
         }
 
         public override long Seek(long offset, SeekOrigin origin)
